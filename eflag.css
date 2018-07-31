@@ -1,0 +1,20 @@
+
+table{
+    background: white;
+    width: 500px;
+    height: 300px;
+    position: relative;
+
+}
+
+tr:nth-child(odd){
+    background: red;
+}
+
+.stars {
+    width: 250px;
+    height: 158;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
